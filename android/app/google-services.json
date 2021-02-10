@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217387537116",
+    "project_id": "newproject-f8158",
+    "storage_bucket": "newproject-f8158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217387537116:android:8306a5816e552e6fca5a19",
+        "android_client_info": {
+          "package_name": "com.example.lendigi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217387537116-mcddrcvhk2fvfmnlv1f58da955csu9ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8IySubnbO_OzLNQhWM6z6pmXwn9vKhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217387537116-mcddrcvhk2fvfmnlv1f58da955csu9ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
